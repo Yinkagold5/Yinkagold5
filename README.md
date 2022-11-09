@@ -2,7 +2,7 @@
 - 👀 I’m interested in scrum master, networking and cybersecurity
 - 🌱 I’m currently learning Agile Planning and Development
 - 💞️ I’m looking to collaborate on Agile Planning
-- 📫 How to reach me ...meetgold5@gmail.com
+- 📫 How to reach me ...olayinkagold01@yahoo.com
 
 <!---
 Yinkagold5/Yinkagold5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
