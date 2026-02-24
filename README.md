@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yinkagold5
-- 👀 I’m interested in scrum master, networking and cybersecurity
-- 🌱 I’m currently learning Agile Planning and Development
-- 💞️ I’m looking to collaborate on Agile Planning
+- 👀 I’m interested in cloud computing/security, DevSecOps, Networking and Cybersecurity
+- 🌱 I’m currently learning DevSecOps, GRC/Cloud GRC, and Cloud Engineering
+- 💞️ I’m looking to collaborate on DevSecOps projects
 - 📫 How to reach me ...olayinkagold01@yahoo.com
 
 <!---
